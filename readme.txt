@@ -5,3 +5,7 @@ This mod is purely for experienced server admins who want to dump mapgrouppos.xm
 If you don't know what `mapgrouppos` is then you can ignore this mod - if you do understand what it is, check out my wiki guide here for how to use this mod: 
 
 https://github.com/ZenarchistCode/ZenModPack/wiki/ZenMapGroupPosSpawner
+
+And click here to download the packed PBO: 
+
+https://github.com/ZenarchistCode/ZenMapGroupPosSpawner/releases/tag/pbo
